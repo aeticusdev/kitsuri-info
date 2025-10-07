@@ -1,1 +1,16 @@
-
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "balls",
+      "description": "definitely balls",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+      "tech": ["Free Balls"],
+      "category": "Balls Growth and Development",
+      "featured": true,
+      "link": "https://ballestballs.kitsuri.com",
+      "github": "https://github.com/Kitsuri-Studios/therealball",
+      "status": "completed"
+    }
+  ]
+}
