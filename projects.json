@@ -2,15 +2,75 @@
   "projects": [
     {
       "id": 1,
-      "title": "balls",
-      "description": "definitely balls",
+      "title": "E-Commerce Platform",
+      "description": "A modern, scalable e-commerce solution with advanced analytics and real-time inventory management.",
       "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
-      "tech": ["Free Balls"],
-      "category": "Balls Growth and Development",
+      "tech": ["Next.js", "TypeScript", "Stripe", "PostgreSQL", "Redis"],
+      "category": "Web Development",
       "featured": true,
-      "link": "https://ballestballs.kitsuri.com",
-      "github": "https://github.com/Kitsuri-Studios/therealball",
+      "link": "https://ecommerce-demo.kitsuri.com",
+      "github": "https://github.com/Kitsuri-Studios/ecommerce-platform",
       "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "AI Chat Assistant",
+      "description": "Intelligent chatbot powered by machine learning for customer support automation.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&h=400&fit=crop",
+      "tech": ["Python", "OpenAI", "FastAPI", "React", "WebSocket"],
+      "category": "AI/ML",
+      "featured": true,
+      "link": "https://chat-ai.kitsuri.com",
+      "github": "https://github.com/Kitsuri-Studios/ai-chat-assistant",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "title": "Mobile Banking App",
+      "description": "Secure and intuitive mobile banking application with biometric authentication.",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&h=400&fit=crop",
+      "tech": ["React Native", "Node.js", "MongoDB", "Firebase", "Stripe"],
+      "category": "Mobile Development",
+      "featured": true,
+      "link": "https://apps.apple.com/app/kitsuri-bank",
+      "github": "https://github.com/Kitsuri-Studios/mobile-banking",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "title": "Real Estate Platform",
+      "description": "Comprehensive real estate platform with virtual tours and advanced property search.",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
+      "tech": ["Vue.js", "Laravel", "MySQL", "Three.js", "AWS S3"],
+      "category": "Web Development",
+      "featured": false,
+      "link": "https://realestate.kitsuri.com",
+      "github": "https://github.com/Kitsuri-Studios/real-estate-platform",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "title": "IoT Dashboard",
+      "description": "Real-time monitoring dashboard for IoT devices with advanced analytics.",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "tech": ["React", "Node.js", "InfluxDB", "MQTT", "Docker"],
+      "category": "IoT",
+      "featured": false,
+      "link": "https://iot-dashboard.kitsuri.com",
+      "github": "https://github.com/Kitsuri-Studios/iot-dashboard",
+      "status": "in-progress"
+    },
+    {
+      "id": 6,
+      "title": "Blockchain Wallet",
+      "description": "Secure cryptocurrency wallet with multi-chain support and DeFi integration.",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop",
+      "tech": ["React", "Web3.js", "Solidity", "MetaMask", "IPFS"],
+      "category": "Blockchain",
+      "featured": false,
+      "link": "https://wallet.kitsuri.com",
+      "github": "https://github.com/Kitsuri-Studios/crypto-wallet",
+      "status": "planned"
     }
   ]
 }
