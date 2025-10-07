@@ -1,1 +1,56 @@
-
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Lodingglue",
+      "role": "Lead Developer & Co-Founder",
+      "description": "Full-stack developer with expertise in modern web technologies and system architecture. Passionate about creating scalable solutions.",
+      "skills": ["React", "Node.js", "TypeScript", "AWS", "Docker"],
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "github": "https://github.com/lodingglue",
+      "linkedin": "https://linkedin.com/in/lodingglue",
+      "twitter": "https://twitter.com/lodingglue"
+    },
+    {
+      "id": 2,
+      "name": "bitware",
+      "role": "Frontend Specialist",
+      "description": "UI/UX focused developer creating beautiful and intuitive user experiences. Expert in modern frontend frameworks.",
+      "skills": ["React", "Next.js", "Tailwind CSS", "Figma", "Three.js"],
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b647?w=150&h=150&fit=crop&crop=face",
+      "github": "https://github.com/bitware",
+      "linkedin": "https://linkedin.com/in/bitware"
+    },
+    {
+      "id": 3,
+      "name": "chaos-d1",
+      "role": "Backend Engineer",
+      "description": "Backend specialist building scalable and robust server-side solutions. Expert in database design and API development.",
+      "skills": ["Node.js", "PostgreSQL", "Docker", "Kubernetes", "Redis"],
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "github": "https://github.com/chaos-d1",
+      "linkedin": "https://linkedin.com/in/chaos-d1"
+    },
+    {
+      "id": 4,
+      "name": "itzastronix",
+      "role": "DevOps Engineer",
+      "description": "Infrastructure and deployment expert ensuring smooth operations and scalability. Cloud architecture specialist.",
+      "skills": ["AWS", "Docker", "CI/CD", "Terraform", "Monitoring"],
+      "avatar": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=150&h=150&fit=crop&crop=face",
+      "github": "https://github.com/itzastronix",
+      "linkedin": "https://linkedin.com/in/itzastronix",
+      "twitter": "https://twitter.com/itzastronix"
+    },
+    {
+      "id": 5,
+      "name": "novie",
+      "role": "AI Specialist",
+      "description": "AI and machine learning expert developing intelligent solutions and automation. Researcher in deep learning and NLP.",
+      "skills": ["Python", "TensorFlow", "PyTorch", "OpenAI", "MLOps"],
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      "github": "https://github.com/novie",
+      "linkedin": "https://linkedin.com/in/novie"
+    }
+  ]
+}
